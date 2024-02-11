@@ -1,0 +1,1 @@
+![](02_abstract_factory.png)

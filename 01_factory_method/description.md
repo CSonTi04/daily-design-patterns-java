@@ -1,0 +1,1 @@
+![](01_factory_method.png)

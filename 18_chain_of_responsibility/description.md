@@ -1,0 +1,1 @@
+![](18_chain_of_responsibility.png)

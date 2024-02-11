@@ -1,0 +1,1 @@
+![](06_tempalte_method.png)
